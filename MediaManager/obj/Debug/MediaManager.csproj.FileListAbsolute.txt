@@ -1,0 +1,9 @@
+C:\SourceControl\MediaManager\MediaManager\bin\Debug\MediaManager.exe.config
+C:\SourceControl\MediaManager\MediaManager\bin\Debug\MediaManager.exe
+C:\SourceControl\MediaManager\MediaManager\bin\Debug\MediaManager.pdb
+C:\SourceControl\MediaManager\MediaManager\obj\Debug\MediaManager.exe
+C:\SourceControl\MediaManager\MediaManager\obj\Debug\MediaManager.pdb
+C:\SourceControl\MediaManager\MediaManager\obj\Debug\MediaManager.csprojResolveAssemblyReference.cache
+C:\SourceControl\MediaManager\MediaManager\bin\Debug\Newtonsoft.Json.dll
+C:\SourceControl\MediaManager\MediaManager\bin\Debug\Newtonsoft.Json.pdb
+C:\SourceControl\MediaManager\MediaManager\bin\Debug\Newtonsoft.Json.xml

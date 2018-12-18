@@ -1,0 +1,3 @@
+12/17/2018 8:21:49 PM
+Some details you want to log.
+
