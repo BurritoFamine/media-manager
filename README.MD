@@ -13,6 +13,13 @@ Media Manager is a simple utility to download media from provided API. The API s
 ## Dependencies
 Media Manager uses Newtonsoft for deserialization of JSON responses.
 
+## Deployment and Execution
+For local execution of Media Manager, run Program.cs in the root directory of the solution.
+
+* Source file should be loaded into /Input directory with title of mars_rover_dates.txt
+* Downloaded photos will be output to the /Output directory, sorted by date.
+* Log file will be output to the /Logs directory.
+
 ## License
 Copyright 2018 - Tyler Fluegel
 
